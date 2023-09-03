@@ -9,7 +9,8 @@ Open-source substrate modules for reputation systems. These reputation managers 
 ### Engines
 - [ ] expertise-engine 
 - [ ] social-network-engine 
-- [ ] time-based-engine 
+- [ ] time-based-engine
+- [ ] zk-repute-engine
 
 ### Incentive systems
 - [ ] TRIS (Token Reward incentive system) 
