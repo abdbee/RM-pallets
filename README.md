@@ -4,23 +4,24 @@ Open-source substrate modules for reputation systems. These reputation managers 
 ## Pallets
 
 ### POC
-- repute-core [ ]
+- [ ] repute-core 
 
 ### Engines
-- expertise-engine [ ]
-- social-network-engine [ ]
-- time-based-engine [ ]
+- [ ] expertise-engine 
+- [ ] social-network-engine 
+- [ ] time-based-engine 
 
 ### Incentive systems
-- TRIS (Token Reward incentive system) [ ]
-- BRIS (Badge reward incentive system) [ ]
-- RMIS (Reputation multiplier incentive system) [ ]
+- [ ] TRIS (Token Reward incentive system) 
+- [ ] BRIS (Badge reward incentive system) 
+- [ ] RMIS (Reputation multiplier incentive system) 
+
 
 ## TO DO
 
-- Build `repute-core` as a POC with an engine and incentive system [ ]
-- R&D of `IRC-1`, `IRC-2`, `RRC-1` and `RRC-2` standards [ ]
-- Build `expertise-engine` [ ]
-- Build `BRIS` [ ]
+- [ ] Build `repute-core` as a POC with an engine and incentive system 
+- [ ] R&D of `IRC-1`, `IRC-2`, `RRC-1` and `RRC-2` standards 
+- [ ] Build `expertise-engine` 
+- [ ] Build `BRIS` 
 
 
