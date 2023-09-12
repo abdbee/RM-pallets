@@ -17,14 +17,14 @@ With Repute-core, an address can start getting scores by priming. This gives it 
 ```rust
 pub struct UserInfo<AccountId, ReputeRank, PrimeStatus> {
     Pub identity: AccountIdentity,
-    Pub id: UserId,
-    Pub Account status: PrimeStatus,
+    Pub user_id: UserId,
+    Pub Account_status: PrimeStatus,
     Pub total_backers: TotalBackers,
     Pub total_scores_gained: TotalScoresGained,
     Pub total_opponents: TotalOponents,
     Pub total_scores_lost: TotalScoresLost,
-    Pub reput-power: ReputePower,
-    Pub repute rank: ReputeRank,
+    Pub reput_power: ReputePower,
+    Pub repute_rank: ReputeRank,
 }
 ```
 
