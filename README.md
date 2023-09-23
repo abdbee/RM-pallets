@@ -4,7 +4,7 @@ Open-source substrate modules for reputation systems. These reputation managers 
 ## Pallets
 
 ### POC
-- [ ] repute-core 
+- [ ] repute-core  (in progress)
 
 ### Engines
 - [ ] expertise-engine 
